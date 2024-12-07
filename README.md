@@ -1,0 +1,2 @@
+# dimasrajin
+MPI RELASI FUNGSI
